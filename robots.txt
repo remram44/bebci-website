@@ -1,0 +1,5 @@
+Sitemap: http://mrampin.ovhsitebuilder.com/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Crawl-Delay: 300
