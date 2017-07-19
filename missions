@@ -12,10 +12,10 @@
 <!--[if IE]>
 <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://widgets.ovhsitebuilder.com/fd585b2/basekitcore.css" />
-<link rel="stylesheet" type="text/css" href="http://www.ovhsitebuilder.com/files/writeable/uploads/ovh1030/custom-css/custom20.css" />
-<link rel="stylesheet" type="text/css" href="http://www.ovhsitebuilder.com/files/writeable/uploads/ovh1030/custom-css/theme2710-20.css" />
-<link rel="stylesheet" type="text/css" href="http://widgets.ovhsitebuilder.com/fd585b2/carousel_columns_columns-column_content_formarea_image_libraryitem_menu_search.css" />
+<link rel="stylesheet" type="text/css" href="/basekitcore.css" />
+<link rel="stylesheet" type="text/css" href="/custom20.css" />
+<link rel="stylesheet" type="text/css" href="/theme2710-20.css" />
+<link rel="stylesheet" type="text/css" href="/carousel_columns_columns-column_content_formarea_image_libraryitem_menu_search.css" />
 <link rel="icon" href="http://www.ovh.fr/images/main/icons/ovh-logo-black_ico.ico" type="image/x-icon" />
 <link rel="SHORTCUT ICON" href="http://www.ovh.fr/images/main/icons/ovh-logo-black_ico.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="/missions.css" />
