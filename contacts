@@ -8,7 +8,7 @@
 <meta http-equiv="content-language" content="en" />
 <meta name="robots" content="index,follow" />
 <meta name="rating" content="general" />
-<base href="http://bebci.fr/deadlink/" />
+<base href="/deadlink/" />
 <!--[if IE]>
 <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -18,7 +18,7 @@
 <link rel="stylesheet" type="text/css" href="http://widgets.ovhsitebuilder.com/fd585b2/carousel_columns_columns-column_content_formarea_image_libraryitem_menu_search.css" />
 <link rel="icon" href="http://www.ovh.fr/images/main/icons/ovh-logo-black_ico.ico" type="image/x-icon" />
 <link rel="SHORTCUT ICON" href="http://www.ovh.fr/images/main/icons/ovh-logo-black_ico.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="http://bebci.fr/contacts?startcss=true&ts=1400052756" />
+<link rel="stylesheet" type="text/css" href="/contacts?startcss=true&ts=1400052756" />
 <link rel="canonical" href="http://mrampin.ovhsitebuilder.com/contacts">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
 <script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="/libraries/jquery/jquery-1.7.1.js"%3E%3C/script%3E'))</script>
@@ -39,22 +39,22 @@
 <div class="widget-columns-column-padding bk-first">
 <ul id="bk11" class="bk-widget widget-menu left widget-menu-K5Z5S9">
 <li class="widget-menu-item  bk-horizontal  widget-menu-item-firstpos">
-<a id="bk11BK5" class="widget-menu-alink widget-menu-link " title="Accueil" href="http://bebci.fr/">Accueil</a>
+<a id="bk11BK5" class="widget-menu-alink widget-menu-link " title="Accueil" href="/">Accueil</a>
 </li>
 <li class="widget-menu-item  bk-horizontal  ">
-<a id="bk11BK19" class="widget-menu-alink widget-menu-link " title="Missions" href="http://bebci.fr/missions">Missions</a>
+<a id="bk11BK19" class="widget-menu-alink widget-menu-link " title="Missions" href="/missions">Missions</a>
 </li>
 <li class="widget-menu-item  bk-horizontal  ">
-<a id="bk11BK20" class="widget-menu-alink widget-menu-link " title="Domaine d'acivit&eacute;" href="http://bebci.fr/domaine-dacivit">Domaine d'acivit&eacute;</a>
+<a id="bk11BK20" class="widget-menu-alink widget-menu-link " title="Domaine d'acivit&eacute;" href="/domaine-dacivit">Domaine d'acivit&eacute;</a>
 </li>
 <li class="widget-menu-item  bk-horizontal  ">
-<a id="bk11BK21" class="widget-menu-alink widget-menu-link " title="Comp&eacute;tences" href="http://bebci.fr/comptences">Comp&eacute;tences</a>
+<a id="bk11BK21" class="widget-menu-alink widget-menu-link " title="Comp&eacute;tences" href="/comptences">Comp&eacute;tences</a>
 </li>
 <li class="widget-menu-item  bk-horizontal  ">
-<a id="bk11BK22" class="widget-menu-alink widget-menu-link " title="R&eacute;f&eacute;rences" href="http://bebci.fr/rfrences">R&eacute;f&eacute;rences</a>
+<a id="bk11BK22" class="widget-menu-alink widget-menu-link " title="R&eacute;f&eacute;rences" href="/rfrences">R&eacute;f&eacute;rences</a>
 </li>
 <li class="widget-menu-item  bk-horizontal  widget-menu-item-lastpos">
-<a id="bk11BK23" class="widget-menu-alink widget-menu-link  widget-menu-selected " title="Contacts" href="http://bebci.fr/contacts">Contacts</a>
+<a id="bk11BK23" class="widget-menu-alink widget-menu-link  widget-menu-selected " title="Contacts" href="/contacts">Contacts</a>
 </li>
 </ul>
 </div>
@@ -170,7 +170,7 @@ Est - 260, rue Lavoisier - BP 405 - 83085 TOULON Cedex 9</span></p>
 </div>
 </div>
 </section>
-<script type="text/javascript"  src="http://bebci.fr/contacts?startjs=true&ts=1400052756"></script>
+<script type="text/javascript"  src="/contacts?startjs=true&ts=1400052756"></script>
 <img class="page-tracking-pixel" src="//d3svzs8y5qq92x.cloudfront.net/pixel.gif?b=ovh&e=live" width="1" height="1" alt="" title="" />
 </body>
 </html>
